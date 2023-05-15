@@ -1,3 +1,63 @@
-body {
-    background-color: blue;
+body{
+    margin: 0;
+    color: #d6d6d6;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+
+}
+
+h1{
+    font-size: 105px;
+    margin: 0;
+    color: #bcbcbc;
+    font-family:'Raleway', sans-serif;
+    position: relative;
+    top: 270px;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: 25px;
+    position: relative;
+    top: 240px;
+    right: 175px;
+}
+
+.top-container {
+    background-color: #051c27;
+    height: 900px;
+    width: auto;
+}
+
+.middle-container {
+    background-color: #B8621B;
+    height: 600px;
+    width: auto;
+}
+
+#profile-picture {
+    text-align: center;
+    position: relative;
+    top: 50px;
+    right: 300px;
+    border-radius: 2%;
+}
+
+.bottom-container {
+    background-color: #262A56;
+    height: 200px;
+    width: auto;
+}
+.last-name {
+    color: #B8621B;
+}
+
+.p1 {
+    font-size: 18px;
+    width: 600px;
+    position: relative;
+    bottom: 450px;
+    left: 650px;
+    text-align: justify
 }
